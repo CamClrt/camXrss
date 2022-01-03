@@ -1,2 +1,2 @@
 from .tag import Tag
-from .feed import Feed
+from .feed import Feed, FeedContent
